@@ -13,7 +13,7 @@ xfgao@163.com
 ## 同步文件夹
 ### code
 
-![Syn_folder.py](https://github.com/45717335/Python_tools/blob/main/Syn_folder.py"Syn_folder.py")
+![Syn_folder.py](https://github.com/45717335/Python_tools/blob/main/Syn_folder.py)
 ```python
 import os
 import sys
