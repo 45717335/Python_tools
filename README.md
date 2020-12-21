@@ -92,4 +92,4 @@ if __name__ == '__main__':
   ```
 ### Download
 .7z 密码:PASSWORD
-![下载同步文件夹](https://github.com/45717335/Python_Candle/blob/main/test3_v4.py_(output).png "下载同步文件夹")
+![下载同步文件夹](https://github.com/45717335/Python_tools/blob/main/%E5%90%8C%E6%AD%A5%E6%96%87%E4%BB%B6%E5%A4%B9_%E5%AF%86%E7%A0%81_PASSWORD.7z)
